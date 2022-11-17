@@ -7,11 +7,8 @@
     "\\assets\\sass",
     "\\assets\\sass\\base",
     "\\assets\\sass\\components",
-    "\\assets\\sass\\layout",
-    "\\images",
-    "\\images\\fulls",
-    "\\images\\thumbs"
+    "\\assets\\sass\\layout"
   ],
-  "SelectedNode": "\\images\\Pine Mtn.jpg",
+  "SelectedNode": "\\assets\\sass\\layout\\_main.scss",
   "PreviewInSolutionExplorer": false
 }
